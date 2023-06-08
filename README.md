@@ -1,7 +1,3 @@
-# 1tech23.github.io
-
-***You see that this has defaulted to the Readme.md file. That means that this website is undergoing development and may not be up for some time.***
-
 # OneTech
 
 Hello and welcome to OneTech!
