@@ -50,8 +50,20 @@ body {
         color: gray;
       }
 a {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
         color: white;
 }
+
+a[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: -100%;
+  left: 0;
+        color: gray
+}
+
 a.active {
         color: gray;
 }
