@@ -25,7 +25,7 @@ body {
     }
     .tab button:hover {
         opacity: 0.5;
-        background-color: blue;
+        background-color: #CECECE;
     }
     .tab button.active {
         opacity: 0.5;
