@@ -198,7 +198,7 @@ ody {
     margin-bottom: 0.5em;
 }
 
-.hero4 .btn {
+.hero4 .btn, .hero4 .donate {
     /* Positioning and sizing */
     display: block;
     width: 200px;
